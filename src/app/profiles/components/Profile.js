@@ -5,7 +5,6 @@ export default function Profile() {
     const description = "Earthworm Jim"
     return (
         <>
-            
             <img
                 className={styles.profile}
                 src={avatar}
